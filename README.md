@@ -1,2 +1,2 @@
 # tankprotector
-videogame Tank Protector
+Not finished videogame Tank Protector, inspired by Battle City.
